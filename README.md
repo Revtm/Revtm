@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Reactive Java Spring Boot
 - ✨ More about me: https://revantama.my.id
 - 📫 How to reach me miqbalrevantama@gmail.com
+- 💻 Ex-PegiPegi Software Engineer (an Indonesian OTA Company)
 
 <!---
 Revtm/Revtm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
